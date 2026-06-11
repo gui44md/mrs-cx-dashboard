@@ -4,7 +4,7 @@ Dashboard que simula a rotina de uma área de **Suporte e Experiência do Client
 operadora ferroviária de cargas: acompanhamento de demandas de atendimento, indicadores de
 desempenho (SLA, tempo de resolução, satisfação) e insights de melhoria contínua.
 
-> **Demo:** https://SEU_USUARIO.github.io/mrs-cx-dashboard/
+> **Demo:** https://gui44md.github.io/mrs-cx-dashboard/
 
 ## Por que este projeto existe
 
