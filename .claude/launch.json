@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mrs-cx-dashboard",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "C:\\Users\\Usuario\\Desktop\\Projects\\mrs-cx-dashboard",
+      "port": 5173
+    }
+  ]
+}
