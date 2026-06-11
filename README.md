@@ -8,11 +8,12 @@ desempenho (SLA, tempo de resolução, satisfação) e insights de melhoria cont
 
 ## Por que este projeto existe
 
-Construí este projeto ao me candidatar ao **Programa de Estágio da MRS** para a vaga de
-Estágio Superior em Suporte e Experiência do Cliente (Juiz de Fora/MG). Em vez de apenas
-descrever interesse pela área, quis demonstrar na prática como enxergo o trabalho dela:
+Tenho bastante interesse pela área de **Suporte e Experiência do Cliente** e pela logística no
+setor ferroviário de cargas. Em vez de só estudar o tema, resolvi construir algo que mostrasse
+na prática como enxergo o trabalho dessa área — do acompanhamento de demandas do dia a dia até
+a leitura analítica dos dados para propor melhorias:
 
-| O que a vaga pede | Onde aparece no projeto |
+| Competência demonstrada | Onde aparece no projeto |
 | --- | --- |
 | Acompanhar e organizar demandas de atendimento | Página **Demandas** — kanban com arrastar e soltar + tabela com busca e filtros |
 | Visão analítica | Página **Visão Geral** — KPIs de SLA, tempo de resolução e CSAT, com gráficos por tipo, segmento e mês |
@@ -68,9 +69,9 @@ src/
 
 ## Aviso
 
-Projeto educacional de portfólio. Todos os clientes, demandas e indicadores são fictícios.
-Este projeto **não possui qualquer afiliação com a MRS Logística S.A.** e não utiliza marcas,
-logotipos ou dados da empresa.
+Projeto educacional de portfólio. Todos os clientes, demandas e indicadores são fictícios e
+foram criados apenas para fins de demonstração. Este projeto **não possui qualquer afiliação
+com empresas reais** e não utiliza marcas, logotipos ou dados de terceiros.
 
 ---
 

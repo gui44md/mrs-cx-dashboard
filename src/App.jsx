@@ -43,7 +43,7 @@ function App() {
         <footer className="rodape">
           Projeto educacional de portfólio com dados 100% fictícios, inspirado na rotina de uma
           área de Suporte e Experiência do Cliente no setor ferroviário de cargas. Sem qualquer
-          afiliação com a MRS Logística S.A.
+          afiliação com empresas reais.
         </footer>
       </div>
     </>
